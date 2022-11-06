@@ -1,4 +1,4 @@
-# wip
+# WİP AÇIK KAYNAK SESLİ ASİSTAN
 WİP Açık Kaynak Sesli Asistan
 
 
