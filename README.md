@@ -1,4 +1,4 @@
-# WİP AÇIK KAYNAK SESLİ ASİSTAN
+# WİP AÇIK KAYNAK KODLU SESLİ ASİSTAN PROJESİ
 ![alt text](https://github.com/alp0ks4/wip/blob/main/wipimg.png?raw=true)
 
 
