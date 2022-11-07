@@ -1,5 +1,5 @@
 # WİP AÇIK KAYNAK SESLİ ASİSTAN
-![alt text]()
+![alt text](https://github.com/alp0ks4/wip/blob/main/wipimg.png?raw=true)
 
 
 WİP Nedir🤔?
