@@ -12,8 +12,7 @@ WİP Hangi Programlama Dili Kullanacak🤔?
 
 WİP Kullanım Alanları Nelerdir🤔?
 
-*Her alanda. Nasıl yaani🤔. WİP, ister webde bilgi arama yapar, ister uygulama açar, ister hatırlatıcı kurar, isterseniz size bir kilit ekranı bile olur. 
-İtiraf et. Etkilendin😁😎.
+*Her alanda. Nasıl yaani🤔. WİP, ister webde bilgi araması yapar, ister uygulama açar, ister hatırlatıcı kurar, istersende kendine özel komutlar ekleyebilirsin.
 
 Merak etme. Burası güncellenecek. Şimdilik benden bu kadar🙃
                    
@@ -22,5 +21,6 @@ Merak etme. Burası güncellenecek. Şimdilik benden bu kadar🙃
                                                        =--------A--L--P--0--K--S--4---------=
                                                        ======================================
                                                        **************************************
+                                                          Güncellenme Tarihi : {07/11/2022}
 
 
